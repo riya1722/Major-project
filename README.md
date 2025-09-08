@@ -3,50 +3,29 @@ OrgoFarm
 
 OrgoFarm is a modern, interactive web application designed to showcase a family-run organic farm's commitment to regenerative agriculture and honest produce. Built using HTML, CSS, and JavaScript, this project demonstrates proficiency in front-end web development by creating a responsive, user-friendly interface with dynamic functionality.
 
-🌱 Project Overview
+🌱 OrgoFarm – Modern Interactive Web Application
+📌 Project Overview
 
-OrgoFarm serves as a digital representation of an organic farm, highlighting its values, offerings, and commitment to sustainable practices. The application features:
+OrgoFarm is a front-end web application designed to promote sustainable farming and organic products. Built with HTML, CSS, and JavaScript, the project demonstrates skills in responsive design, interactive UI, and clean code practices.
 
-Responsive Design: Ensures optimal viewing and interaction across a wide range of devices.
+This project highlights my ability to create user-friendly, visually appealing, and mobile-compatible websites using core front-end technologies.
 
-Interactive UI: Smooth transitions, animations, and interactive elements enhance user experience.
+✨ Features
 
-Dynamic Functionality: JavaScript-driven features such as forms, modals, sliders, or real-time updates.
+🎨 Responsive Design – Works seamlessly on desktops, tablets, and mobile devices
 
-Clean and Modern Layout: Structured with semantic HTML and styled with CSS for a polished look.
+⚡ Interactive UI – Smooth navigation and engaging user experience
 
-📂 Project Structure
+🌍 Sustainability Theme – Promotes organic farming practices with modern web design
 
-The project repository includes the following files:
+🖼️ Custom Styling – Elegant layouts and CSS animations for improved UX
 
-index.html: The main landing page of the application.
+🛠️ Tech Stack
 
-about.html: A page detailing the farm's story and mission.
+HTML5 – Structured, semantic markup
 
-contact.html: A contact form for user inquiries.
+CSS3 – Responsive styling, Flexbox/Grid, animations
 
-product.html: A page showcasing the farm's products.
+JavaScript (Vanilla JS) – DOM manipulation, dynamic interactions
 
-blog.html: A blog section with articles related to organic farming.
-
-style.css: The main stylesheet for the application.
-
-home.css, product.css, blog.css: Additional stylesheets for specific pages.
-
-script.js: JavaScript file containing the logic for interactive elements.
-
-🚀 Features
-
-Interactive Forms: Users can submit inquiries or feedback through dynamic forms.
-
-Product Showcase: Display of various organic products with detailed descriptions.
-
-Smooth Animations: Transitions and hover effects for an engaging user experience.
-
-🔧 Technologies Used
-
-HTML5: Semantic markup for better structure and accessibility.
-
-CSS3: Styling, Flexbox/Grid layouts, animations, and responsive design.
-
-JavaScript (ES6+): DOM manipulation, event handling, and dynamic content.
+Git & GitHub – Version control and collaboration
