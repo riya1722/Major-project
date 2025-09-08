@@ -41,8 +41,6 @@ Interactive Forms: Users can submit inquiries or feedback through dynamic forms.
 
 Product Showcase: Display of various organic products with detailed descriptions.
 
-Blog Section: Articles and updates related to organic farming practices.
-
 Smooth Animations: Transitions and hover effects for an engaging user experience.
 
 🔧 Technologies Used
